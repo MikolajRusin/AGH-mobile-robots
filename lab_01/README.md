@@ -40,7 +40,6 @@ lab_01/
 │   ├── task2_function.py       # Mathematical function (Task 2)
 │   ├── serial_comm.py          # Serial port handling (Tasks 3, 4)
 │   └── task5_filter.py         # FIR filter (Task 5)
-└── report/
 ```
 
 ---
