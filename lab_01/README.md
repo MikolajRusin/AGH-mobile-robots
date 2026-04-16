@@ -90,7 +90,7 @@ Receives data from a distance sensor simulator (values in cm with measurement no
 
 ```bash
 # Separate terminal — simulator sends data to the second port of the pair
-python scripts/distance_sensor_simulator.py /dev/pts/6
+python distance_sensor_simulator.py --port_number 6
 ```
 
 Task 4 creates the port pair automatically via `create_ports()`.
