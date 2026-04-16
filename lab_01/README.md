@@ -34,6 +34,7 @@ lab_01/
 ├── main.py                     # Entry point — task selection
 ├── scripts/
 │   ├── create-ports.sh         # Creates a virtual serial port pair (socat)
+│   ├── distance_sensor_simulator.py  # Simulating a distance sensor
 │   ├── kill-ports.sh           # Kills socat processes
 │   └── run-miniterm.sh         # Launches serial terminal
 ├── src/
