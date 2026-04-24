@@ -6,4 +6,8 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pyserial>=3.5",
+    "pytest>=9.0.3",
 ]
+
+[tool.pytest.ini_options]
+pythonpath = ["lab_02"]
