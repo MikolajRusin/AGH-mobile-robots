@@ -5,9 +5,10 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "matplotlib>=3.10.9",
     "pyserial>=3.5",
     "pytest>=9.0.3",
 ]
 
 [tool.pytest.ini_options]
-pythonpath = ["lab_02"]
+pythonpath = ["lab_03"]
