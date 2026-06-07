@@ -1,0 +1,7 @@
+number_of_states: 181
+path_length: 2.599999999999997
+final_x: 2.287297378985078
+final_y: 0.743860158577141
+final_theta: 9.367506770274758e-17
+min_command_speed: 0.1
+max_command_speed: 0.45

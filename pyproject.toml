@@ -6,9 +6,10 @@ readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "matplotlib>=3.10.9",
+    "pyqt6>=6.11.0",
     "pyserial>=3.5",
     "pytest>=9.0.3",
 ]
 
 [tool.pytest.ini_options]
-pythonpath = ["lab_03"]
+pythonpath = ["lab_04"]
